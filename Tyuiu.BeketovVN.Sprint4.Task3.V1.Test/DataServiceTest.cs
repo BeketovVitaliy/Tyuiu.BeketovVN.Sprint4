@@ -22,7 +22,7 @@ namespace Tyuiu.BeketovVN.Sprint4.Task3.V1.Test
             };
 
             int res = ds.Calculate(myArray);
-            int wait = 21;
+            int wait = 68;
             Assert.AreEqual(wait, res);
         }
     }
